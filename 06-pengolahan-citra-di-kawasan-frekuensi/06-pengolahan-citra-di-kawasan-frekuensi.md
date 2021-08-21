@@ -1,0 +1,1 @@
+# Pengeolahan Citra di Kawasan Frekuensi
