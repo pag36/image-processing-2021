@@ -1,1 +1,1 @@
-# Pengantar Pengolahan Citra
+# Morfologi untuk Pengolahan Citra

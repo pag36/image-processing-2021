@@ -1,1 +1,1 @@
-# Pengantar Pengolahan Citra
+# Operasi Geometrik

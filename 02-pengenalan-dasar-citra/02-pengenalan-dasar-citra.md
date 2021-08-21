@@ -1,1 +1,1 @@
-# Pengantar Pengolahan Citra
+# Pengenalan Dasar Citra

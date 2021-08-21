@@ -1,1 +1,1 @@
-# Pengantar Pengolahan Citra
+# Pengeolahan Citra di Kawasan Frekuensi
